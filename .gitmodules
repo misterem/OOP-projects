@@ -1,0 +1,9 @@
+[submodule "Ex1"]
+	path = Ex1
+	url = https://github.com/misterem/Ex1
+[submodule "Ex4"]
+	path = Ex4
+	url = https://github.com/misterem/Ex4
+[submodule "bricker"]
+	path = bricker
+	url = https://github.com/misterem/bricker
